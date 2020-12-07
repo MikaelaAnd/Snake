@@ -13,9 +13,16 @@
 }
 
 .snake {
-    background-color: blue;
+    background-color: mediumpurple;
 }
 
 .apple {
-    background-color: green;
+    background-color: rgb(39, 151, 39);
+
+}
+
+button {
+    background-color: rgb(159, 215, 226);
+    color: rgb(57, 68, 131);
+    padding: .5rem;
 }
